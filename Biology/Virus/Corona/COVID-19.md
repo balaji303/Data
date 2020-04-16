@@ -1,5 +1,6 @@
 
 This Google sheet has records of Active cases, Recovery cases, Fatal cases. 
+ With difference from yesterday
 
 
 
