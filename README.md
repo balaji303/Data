@@ -6,7 +6,6 @@
 This repository has different sheets which has datas
 Hope this can be used by Data scientist, Research, Press.
 
-
 **Corona Google Sheet**
 -[Click Here](https://docs.google.com/spreadsheets/d/1EY4eLyltJgHWvQzsK3T-zw0ij8h2cyOlk3mXP2DhHKI/edit#gid=0)
 
